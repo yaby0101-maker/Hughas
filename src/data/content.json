@@ -1,9 +1,9 @@
 {
-  "siteName": "CAMPUS DIARIES",
-  "subtitle": "高中生活與日常穿搭誌",
+  "siteName": "アニ・レオンハート",
+  "subtitle": "雅妮紀錄集 超帥!",
 
   "theme": {
-    "primaryColor": "#222222",
+    "primaryColor": "hwb(261 11% 35% / 0.466)",
     "accentColor": "#888888",
     "backgroundColor": "#ffffff",
     "footerBackground": "#111111",
@@ -13,31 +13,27 @@
   },
 
   "socialLinks": {
-    "instagram": "",
+    "instagram": "https://sites.google.com/a/victoria.ylc.edu.tw/senior/%E6%A0%A1%E5%9C%92%E8%B3%87%E8%A8%8A/%E6%9C%AC%E6%9C%88%E8%8F%9C%E5%96%AE?authuser=0",
     "facebook": "",
     "twitter": ""
   },
 
   "nav": [
-    { "label": "首頁", "type": "home" },
-    { "label": "校園穿搭", "type": "category", "value": "OUTFIT" },
-    { "label": "生活隨筆", "type": "category", "value": "LIFESTYLE" },
+    { "label": "介紹", "type": "home" },
+    { "label": "雅妮的死對頭", "type": "category", "value": "OUTFIT" },
+    { "label": "秀你一臉", "type": "category", "value": "LIFESTYLE" },
     { "label": "關於我", "type": "about" }
   ],
 
   "heroPost": {
     "id": "post-000",
     "category": "LIFESTYLE",
-    "title": "高二下學期的開學日常：如何保持讀書與生活的平衡",
+    "title": "雅妮好帥 這個臉嘿嘿嘿嘿嘿",
     "date": "2026.03.12",
-    "image": "https://images.unsplash.com/photo-1517842645767-c639042777db?q=80&w=1200&auto=format&fit=crop",
-    "excerpt": "新的學期開始了，面對越來越重的課業壓力，我試著在筆記本上規劃出屬於自己的時間表，讓生活不僅僅只有考試，還有更多值得記錄的美好瞬間...",
+    "image": "https://i.imgur.com/16I3SJE.jpg",
+    "excerpt": "每次回顧進擊的巨人還是覺得雅妮好帥啊啊啊啊啊啊啊",
     "content": [
-      "新的學期開始了，面對越來越重的課業壓力，我試著在筆記本上規劃出屬於自己的時間表，讓生活不僅僅只有考試，還有更多值得記錄的美好瞬間。",
-      "每天早上我會提早半小時起床，給自己泡一杯咖啡，安靜地看幾頁書或是整理今天的待辦事項。這半小時的寧靜，能讓我一整天都保持清晰的頭腦。",
-      "在學校裡，除了上課認真聽講，我也會利用下課時間和同學討論不懂的問題。放學後，我會先去操場跑個幾圈，流點汗能有效釋放壓力。",
-      "晚上的時間我會切分成幾個區塊：寫作業、複習、以及留給自己的休閒時間。休閒時間我可能會看一部短片、聽聽音樂，或是寫寫這篇部落格。",
-      "找到適合自己的節奏，才是保持平衡的關鍵。希望這個學期，我們都能在課業與生活中找到最舒服的姿態！"
+      "很多雅妮迷都是因為這臉而入坑的"
     ]
   },
 
@@ -45,46 +41,34 @@
     {
       "id": "post-001",
       "category": "OUTFIT",
-      "title": "春季校園穿搭指南：制服外的微小叛逆",
+      "title": "這邪惡的小臉臉 有人又要遭殃了嘿嘿哈哈哈哈哈",
       "date": "2026.03.05",
-      "image": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?q=80&w=800&auto=format&fit=crop",
-      "excerpt": "雖然每天都要穿制服，但透過不同的球鞋、帆布包或是外套的搭配，也能在規矩中展現自己的個性。今天來分享三套我最愛的春季校園穿搭。",
+      "image": "https://assets.matters.news/embed/695eb924-41a3-4b14-ae52-054ec99d357e.jpeg",
+      "excerpt": "奪回艾倫!(死萊納 不會自己搶逆 叫我家雅妮去 你算甚麼男人~周杰倫的歌嘿嘿",
       "content": [
-        "雖然每天都要穿制服，但透過不同的球鞋、帆布包或是外套的搭配，也能在規矩中展現自己的個性。今天來分享三套我最愛的春季校園穿搭。",
-        "第一套是『經典黑白配』。我喜歡在制服外面套上一件寬鬆的黑色針織開衫，配上一雙經典的黑白帆布鞋。簡單又不會出錯，而且非常舒服。",
-        "第二套是『微甜復古風』。利用酒紅色的復古小皮鞋搭配白色的短襪，再背一個帆布托特包，整體感覺會變得很有氣質，適合去圖書館的日子。",
-        "第三套是『運動休閒風』。有體育課的那天，我會換上亮色系的運動鞋，並在制服外搭一件防風外套，充滿活力又方便活動。",
-        "穿搭不僅僅是為了好看，更是展現自我的一種方式。在不違反校規的前提下，盡情發揮創意吧！"
+        "奪回艾倫! 咬斷他的手手 嘿嘿嘿"
       ]
     },
     {
       "id": "post-002",
       "category": "STUDY",
-      "title": "期中考備戰：我的讀書筆記分享",
+      "title": "微憂鬱的雅妮 還是好愛 ",
       "date": "2026.02.28",
-      "image": "https://images.unsplash.com/photo-1456406644174-8ddd4cd52a06?q=80&w=800&auto=format&fit=crop",
-      "excerpt": "這次期中考的範圍真的很大，我整理了一些歷史和地理的重點筆記，並分享我平常使用的番茄鐘讀書法，希望能幫助到大家一起度過難關。",
+      "image": "data:image/jpeg;base64,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",
+      "excerpt": "這次期中考的範圍真的很大，我整理了一些雅妮的照片，心情愉悅",
       "content": [
-        "這次期中考的範圍真的很大，我整理了一些歷史和地理的重點筆記，並分享我平常使用的番茄鐘讀書法，希望能幫助到大家一起度過難關。",
-        "首先是『番茄鐘讀書法』。我會設定 25 分鐘專注學習，然後休息 5 分鐘。每完成四個循環，就進行一次 15 到 30 分鐘的長休息。這能有效防止大腦過度疲勞。",
-        "在做筆記方面，我喜歡用康乃爾筆記法。將筆記頁面分成三個區塊：筆記欄、提示欄和總結欄。上課時主要寫在筆記欄，複習時在提示欄寫下關鍵字或問題，最後在底部寫下整頁的總結。",
-        "針對歷史，我會畫時間軸來釐清事件的先後順序；地理則是多畫地圖，把氣候、地形等資訊標註在上面，視覺化的記憶效果更好。",
-        "最後，別忘了保持充足的睡眠。熬夜讀書往往效率不佳，睡飽了才有力氣應付考試！祝大家期中考順利！"
+        "這次期中考的範圍真的很大，有點想擺爛，但為了繁心著想還是讀一下，嘿嘿嘿。"
       ]
     },
     {
       "id": "post-003",
       "category": "LIFESTYLE",
-      "title": "週末探店：隱藏在巷弄裡的文青咖啡廳",
+      "title": "沉思沉思再沉思",
       "date": "2026.02.15",
-      "image": "https://images.unsplash.com/photo-1554118811-1e0d58224f24?q=80&w=800&auto=format&fit=crop",
-      "excerpt": "上個週末和朋友去了一家新開的咖啡廳，店裡的氛圍超級好，木質調的裝潢配上好聽的爵士樂，甜點也意外地好吃！",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRI1gekixJctvgKvdtQ5GRyZEhMDo0NyMR_ow&s",
+      "excerpt": "不知道第幾次回顧進擊的巨人，每看一次愛一次雅妮，雖然在劇中算個反派，但媽媽愛你!",
       "content": [
-        "上個週末和朋友去了一家新開的咖啡廳，店裡的氛圍超級好，木質調的裝潢配上好聽的爵士樂，甜點也意外地好吃！",
-        "這家店隱藏在學校附近的一條小巷子裡，沒有明顯的招牌，只有一個小小的黑板寫著『營業中』。推開木門，迎面而來的是濃濃的咖啡香。",
-        "我們點了招牌的焦糖瑪奇朵和伯爵茶戚風蛋糕。咖啡的奶泡很綿密，焦糖的甜度剛剛好；戚風蛋糕非常鬆軟，帶有淡淡的茶香，完全不膩口。",
-        "店裡有很多靠窗的座位，光線很好，非常適合帶本書來這裡坐上一個下午。老闆也很親切，還跟我們分享了他手沖咖啡的技巧。",
-        "如果你週末不知道要去哪裡，不妨來這家咖啡廳坐坐，享受一個悠閒的午後時光吧！"
+        "雅妮我女兒"
       ]
     },
     {
@@ -92,7 +76,7 @@
       "category": "PHOTOGRAPHY",
       "title": "底片相機入門：記錄那些回不去的瞬間",
       "date": "2026.02.01",
-      "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?q=80&w=800&auto=format&fit=crop",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCGWuqJN6nzeeHGbHq57VcFYCuoiwQ-oxXdQ&s",
       "excerpt": "最近迷上了底片攝影，那種等待沖洗的過程，以及底片特有的顆粒感，真的讓人著迷。分享幾張我最近拍的作品。",
       "content": [
         "最近迷上了底片攝影，那種等待沖洗的過程，以及底片特有的顆粒感，真的讓人著迷。分享幾張我最近拍的作品。",
@@ -107,7 +91,7 @@
       "category": "OUTFIT",
       "title": "雨天校園穿搭：防水也能很有型",
       "date": "2026.01.20",
-      "image": "https://images.unsplash.com/photo-1534120247760-c44c3e4a62f1?q=80&w=800&auto=format&fit=crop",
+      "image": "data:image/jpeg;base64,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",
       "excerpt": "最近一直下雨，心情都快發霉了。分享幾件我最近入手的防水單品，讓你在雨天也能帥氣地走進教室。",
       "content": [
         "最近一直下雨，心情都快發霉了。分享幾件我最近入手的防水單品，讓你在雨天也能帥氣地走進教室。",
@@ -128,10 +112,10 @@
     },
     "aboutExtended": "歡迎來到我的個人網站！這裡記錄了我的校園生活、社團活動以及各種天馬行空的想法。希望透過這些文字與影像，能與你分享生活中的美好瞬間。",
     "categories": [
-      { "name": "校園穿搭 (OUTFITS)", "value": "OUTFIT", "count": 12 },
-      { "name": "生活隨筆 (LIFESTYLE)", "value": "LIFESTYLE", "count": 8 },
-      { "name": "讀書筆記 (STUDY)", "value": "STUDY", "count": 5 },
-      { "name": "攝影日常 (PHOTOGRAPHY)", "value": "PHOTOGRAPHY", "count": 15 }
+      { "name": "雅妮的死對頭 (OUTFITS)", "value": "OUTFIT", "count": 12 },
+      { "name": "雅妮帥照 (LIFESTYLE)", "value": "LIFESTYLE", "count": 8 },
+      { "name": "憂鬱美女 (STUDY)", "value": "STUDY", "count": 5 },
+      { "name": "就是這麼跩 (PHOTOGRAPHY)", "value": "PHOTOGRAPHY", "count": 15 }
     ]
   },
 

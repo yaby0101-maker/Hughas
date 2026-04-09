@@ -7,7 +7,7 @@
 }
 
 :root {
-  --color-primary: #222222;
+  --color-primary: hwb(261 11% 35% / 0.466);
   --color-accent: #888888;
   --color-bg: #ffffff;
   --color-footer-bg: #111111;
